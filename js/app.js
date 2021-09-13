@@ -34,7 +34,7 @@ const showProducts = (products) => {
       <i class="fas fa-star rating ${star1} ${star2}"></i>
       <i class="fas fa-star rating ${star1}"></i>
       <i class="fas fa-star rating"></i>
-      </span> (${product.rating.rate})</p>:${product.rating.rate}</h5>
+      </span> (${product.rating.rate})</p></h5>
       <h4>count: ${product.rating.count}</h4>
       
       
