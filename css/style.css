@@ -64,6 +64,7 @@ input{
 .single-product {
   padding: 10px;
   transition: 0.6s;
+  min-height: 500px;
 }
 .single-product:hover {
   box-shadow: 4px 4px 7px gray;
@@ -74,6 +75,11 @@ input{
 .product-image {
   width: 150px;
   height: 150px;
+}
+.product{
+  box-shadow: 0px 0px 2px 4px rgb(228, 221, 221);
+  margin-top:1rem;
+  margin-bottom: 1rem;
 }
 .cart {
   width: 350px;
