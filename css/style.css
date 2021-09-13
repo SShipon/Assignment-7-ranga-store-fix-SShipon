@@ -85,6 +85,7 @@ input{
   position: fixed;
   background-color: rgb(213, 208, 228);
 }
+/*  star rating */ 
 .rating{
   color: rgb(112, 112, 112);
 }
@@ -95,6 +96,7 @@ input{
 .cart-main {
   padding-right: 30px;
 }
+
 @media only screen and (max-width: 768px) {
   #all-products {
     display: grid;
