@@ -14,17 +14,24 @@ body {
 }
 .search-box {
   border: 1px solid rgb(3, 118, 211);
-  width:275px;
-  border-radius:5px;
-  margin: auto;
-  margin-top: 50px;
-  border-right: none;
+  width:281px;
+  margin:auto;
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  }
+.search-box button {
+  width: 30%;
+  outline: none;
+  border: none;
+  border-radius: 0;
 }
-.search-button {
-  padding: 10px 50px;
-  border-radius: 30px;
-  margin-left: 25px;
+input{
+  width: 70%;
+  outline: none;
+  border: none;
 }
+
 #all-products {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
