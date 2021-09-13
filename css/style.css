@@ -5,7 +5,7 @@ body {
 }
 /***------------header-site style---------***/
 .header-site{
-  color:darkslategray;
+  color:rgb(167, 202, 202);
   font-weight: bold;
   text-align: center;
 }
@@ -42,12 +42,12 @@ input{
 /***--------addToCart-btn,details-btn style----------***/
 
 #addToCart-btn{
-  background-image:linear-gradient(to right, rgb(234, 167, 240), rgb(177, 177, 243));
+  background-image:linear-gradient(to right, rgb(86, 203, 230), rgb(177, 177, 243));
   transition: 0.5s;
   border: 1px solid rgb(51, 41, 44);
 }
 #details-btn{
-  background-color: rgb(238, 174, 206);
+  background-color: rgb(174, 203, 207);
   color:black;
 }
 
@@ -69,7 +69,7 @@ input{
   box-shadow: 4px 4px 7px gray;
   border-radius: 10px;
   border: 1px solid rgb(15, 17, 17);
-  background: rgb(247, 233, 245);
+  background: rgb(213, 208, 228);
 }
 .product-image {
   width: 150px;
