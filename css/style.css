@@ -42,12 +42,12 @@ input{
 /***--------addToCart-btn,details-btn style----------***/
 
 #addToCart-btn{
-  background-image:linear-gradient(to right, rgb(86, 203, 230), rgb(177, 177, 243));
+  background-image:linear-gradient(to right, rgb(50, 231, 153), rgb(241, 120, 227));
   transition: 0.5s;
   border: 1px solid rgb(51, 41, 44);
 }
 #details-btn{
-  background-color: rgb(174, 203, 207);
+  background-color: rgb(126, 228, 230);
   color:black;
 }
 
